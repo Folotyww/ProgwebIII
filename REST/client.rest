@@ -43,7 +43,7 @@ POST http://localhost:3333/user/
 content-type: application/json
 
 {
-    "nome": "Fulano de Tal",
+    "nome": "gabriel",
     "valor": 1000.00
 }
 
@@ -52,7 +52,7 @@ PUT http://localhost:3333/user/:id
 content-type: application/json
 
 {
-    "name": "Beltrano de Tal",
+    "name": "daniel",
     "valor": 5000.00
 }
 
